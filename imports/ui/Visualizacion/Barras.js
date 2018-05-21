@@ -1,3 +1,4 @@
+// se recomienda el uso de d3
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { BarChart,
