@@ -1,3 +1,4 @@
+//para mayor mantenibilidad es mejor dividir las publicaciones y colecciones en diferentes archivos
 import { Meteor } from "meteor/meteor";
 import { Mongo } from "meteor/mongo";
 import { check } from "meteor/check";
