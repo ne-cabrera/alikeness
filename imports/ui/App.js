@@ -1,3 +1,4 @@
+//se recomienda modularizar mas los componentes, no es recomendable tener componentes con muchas funcionalidades.
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 
